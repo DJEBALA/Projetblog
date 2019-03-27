@@ -2,7 +2,10 @@ salut tout le monde !
 saha je suis là!
 how are you!
 salam!
+<<<<<<< HEAD
 jsk
+=======
+>>>>>>> b41ea83cf00c54d53b1c08747181083dda8fd034
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
